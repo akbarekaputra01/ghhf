@@ -9,17 +9,14 @@ python-jose
 passlib
 bcrypt
 cryptography
-# --- Machine Learning (Tanpa Versi = Biar Render Pilih Sendiri) ---
 joblib
 scikit-learn
 numpy
 pandas
 scipy
-# --- Utilities ---
 python-dotenv
 requests
 email-validator
-# --- Dependencies Tambahan ---
 annotated-types
 anyio
 attrs
